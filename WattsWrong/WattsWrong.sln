@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WattsWrong", "WattsWrong.csproj", "{C8C1132E-1058-4247-82B6-33FE8118920E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WattsWrong setup", "..\WattsWrong setup\WattsWrong setup.vdproj", "{79B277F3-50E1-4CB8-BA40-E89A96F95253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C1132E-1058-4247-82B6-33FE8118920E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C1132E-1058-4247-82B6-33FE8118920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C1132E-1058-4247-82B6-33FE8118920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C1132E-1058-4247-82B6-33FE8118920E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B277F3-50E1-4CB8-BA40-E89A96F95253}.Debug|Any CPU.ActiveCfg = Debug
+		{79B277F3-50E1-4CB8-BA40-E89A96F95253}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B76BEF-C662-4F3D-ABF3-5E1029DAD5C5}
+	EndGlobalSection
+EndGlobal
